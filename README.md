@@ -8,11 +8,11 @@
 ###			____· Axios
 
 ###			---------------------------------------------------------------
-###			·	Dependences Babel 	npm 	Backend
+###			·	Depends Babel 	npm 		Backend
 ###			npm i @babel/core
 ###			https://www.npmjs.com/package/@babel/core
 
-###			·	dependences Express 		Backend
+###			·	depends Express 			Backend
 ###			npm i express
 ###			https://www.npmjs.com/package/express
 
