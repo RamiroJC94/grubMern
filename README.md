@@ -59,6 +59,8 @@
 ###			------------------------------		mongod 	linux	levantar 	------------------------------
 
 ###			sudo systemctl start mongod
+###			//sudo systemctl stop mongod
+###			//sudo systemctl reset mongod
 
 ###			------------------------------		mongod 	linux	levantar 	------------------------------
 
